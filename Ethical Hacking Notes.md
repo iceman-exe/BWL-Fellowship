@@ -55,6 +55,7 @@ Phases of ethical hacking:
 
 
 Common types of attacks:
+
     • DDoS: Distributed Denial of Service. Makes services unavailable for legitimate users.
     • Password attacks: Attacks that try to access user accounts by cracking user passwords in order to gain unauthorised access to data.
     • MitM: Capture data packets between victim client and target server. Attempts to intercept and analyse data packets for sensitive information.
