@@ -59,6 +59,7 @@ Many, many other tools exist. Some offer functionality similar to the ones above
 Metasploit: 
 
 A framework of penetration testing that makes hacking simple. Tester identifies the vulnerability associated with an exploit and runs the exploit using metasploit.
+
     • Active exploit: An active exploit, exploits a specific computer, runs until execution then exits. It uses brute force and exits when an error occurs.
     • Passive exploits: Waits for incoming requests and exploits them as soon as they connect. Can be used in conjunction with malicious emails and web sites. Deploys a reverse connection payload on the victims machine. The machine initiates a connection back to the attacker which allows them to listen to traffic and exploit vulnerabilities.
 
