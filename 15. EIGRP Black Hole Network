@@ -1,0 +1,15 @@
+EIGRP Black Hole Network:
+
+Routing protocols are easy to hack. It is necessary to configure them correctly or they will be vulnerable to attacks.
+
+Fake routes can be sent to an improperly configured router and added to its routing table allowing traffic to be re-directed anywhere else.
+
+Black Holes in a Network:
+
+    • Places in a network where traffic is silently discarded without informing the source that the data did not reach the intended recipient so the sender keeps sending traffic.
+      
+    • Black holes can only be detected by monitoring the lost traffic.
+      
+    • The most common form of black hole is an IP address that specifies a host machine that is not running or an address to which no host has been assigned. Even though TCP/IP provides a means of communicating the delivery failure back to the sender via ICMP, traffic destined for such addresses is often just dropped. A dead address will be undetectable only to protocols that are both connection-less and unreliable (e.g. UDP). Connection-oriented or reliable protocols (TCP, RUDP) will either fail to connect to a dead address or will fail to receive expected acknowledgements. 
+      
+    • Hacking a CISCO EIGRP router using scapy(python): https://youtu.be/4ZWQrjijcZ4	
