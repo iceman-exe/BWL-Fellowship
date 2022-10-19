@@ -3,6 +3,25 @@ Social Engineering:
     • An attacker uses human interaction to obtain or compromise specific info.
     • Attacker may pretend to be well known and respectable person, a new employee, an old boss etc etc. 
     • Attacker can ask enough questions to be able to piece together valuable info. May gather info from multiple sources/people.
+    • Be confident. Even when giving the wrong answer.
+
+Types of Social Engineering:
+
+    • Quid pro quo: something for something. Attacker will call an organisation pretending to be tech support. Eventually they will reach someone who has a problem and will follow instructions.
+    • Phishing: fraudulently obtaining confidential info. Derived from fishing where fish are caught via bait. Usually consists of emails pretending to be from reputable sources asking for information for verification but the link in the email leads to malicious pages used to gain victims' info. 
+            ▪ spear phishing: Emails are sent from the identity of an earlier victim.
+            ▪ phone phishing: Calling organisations and people to pretend to verify information.
+    • baiting: Similar to a trojan. Instead of phishing for information, malicious software used is delivered via bait and acts as a trojan. Baiting relies on the greed and curiosity of victims. One tactic could be to leave an infected USB drive in a company office. Some employee will insert it into a PC and the trojan could get activated.
+    • pretexting: Inventing a scenario. Tactics used to impersonate an authority. Involves proper background research. Uses prepared answers to victims' questions.
+    • diversion theft: A con. Persuasion tactics used to dupe victims into surrendering valuable items and information willingly.
+
+
+Ways to Prevent SE Attacks:
+
+    • User awareness: Users need to know that any info that they divulge could be misused and that they should not give out any confidential information.
+    • Policies: Employees should not be allowed to divulge private information. Strict policies could prevent employees from being tricked into giving out “random” information.
+    • Third party test: Penetration tests involve SE attempts. These act as a good measure to check if organisational awareness is satisfactory.
+    • Be sceptical/smart: Be aware of where you divulge information online. Check and double check all suspicious emails, links, etc
       
 
 Kevin Mitnick: The Art of Deception
