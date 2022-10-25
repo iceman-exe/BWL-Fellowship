@@ -23,5 +23,21 @@ Ways to Prevent SE Attacks:
     • Third party test: Penetration tests involve SE attempts. These act as a good measure to check if organisational awareness is satisfactory.
     • Be sceptical/smart: Be aware of where you divulge information online. Check and double check all suspicious emails, links, etc
       
+SE Attacks:
+Methods for social engineering available using SEToolKit on kali:
+    • Spear Phishing Attack Vectors: Target a specific victim
+    • website attacks vectors:
+            ▪ Java Applet Attack Method: Display a popup in victims browser asking to run a java command which can be used to execute the payload and pivot the attack outside of the browser for persistence.
+            ▪ Metasploit Browser Exploit Method: Attack/exploit browser cookies and DNS cache.
+            ▪ Credential Harvester Attack Method: (Researching this now)
+            ▪ Tabnabbing Attack Method: (Researching this now)
+            ▪ Web Jacking  Attack Method: (Researching this now)
+            ▪ Multi-Attack Web Method: (Researching this now)
+    • Mass Mailer Attack Vectors: DDOS a specific Email ID to prevent its owner from being able to access their Email.
+    • Arduino Based Attack Vectors: Different attacks for Arduino based hardware
+    • Wireless Access Point Attack Vectors: Impersonate a WAP to lure victim(s) to connect, allowing traffic capture and sniffing.
+    • qrcode Generator: Generate a qr code for a URL.
+    • Powershell Attack Vectors: designed for windows versions which use powershell. Allow using powershell to exploit systems.
+
 
 Kevin Mitnick: The Art of Deception
